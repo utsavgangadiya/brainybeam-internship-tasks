@@ -1,0 +1,101 @@
+patient_id,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target,chol_percentile,thalach_percentile,risk_factor,risk_category
+1,69,Male,Typical Angina,188,266,False,Normal,106,No,4.2,Downsloping,Zero,Reversible Defect,1,0.335,0.185,0.5146,Medium
+2,56,Male,Typical Angina,105,237,False,LVH,77,No,4.4,Downsloping,Three,Normal,0,0.285,0.01,0.5664,Medium
+3,57,Female,Typical Angina,191,538,False,LVH,179,Yes,1.7,Upsloping,Two,Normal,1,0.925,0.79,0.4929,Medium
+4,34,Female,Typical Angina,139,559,True,LVH,138,No,4.5,Downsloping,Zero,Fixed Defect,0,0.985,0.4,0.7522,High
+5,34,Female,Non-anginal Pain,167,224,False,Normal,129,Yes,6.1,Upsloping,Zero,Fixed Defect,1,0.235,0.325,0.3957,Low
+6,46,Female,Non-anginal Pain,114,315,True,Normal,139,No,3.8,Upsloping,One,Normal,0,0.415,0.415,0.4486,Medium
+7,58,Female,Non-anginal Pain,175,478,False,LVH,154,No,1.4,Upsloping,Two,Fixed Defect,1,0.785,0.55,0.5647,Medium
+8,46,Male,Atypical Angina,166,493,True,Normal,198,Yes,5.5,Downsloping,Three,Normal,1,0.835,0.975,0.3482,Low
+9,45,Male,Atypical Angina,189,413,True,LVH,180,Yes,2.2,Upsloping,Three,Normal,1,0.585,0.815,0.3296,Low
+10,77,Male,Typical Angina,113,447,False,LVH,179,No,2.4,Downsloping,Three,Reversible Defect,1,0.655,0.79,0.3735,Low
+11,45,Male,Typical Angina,181,400,True,LVH,158,No,1.8,Upsloping,Three,Normal,0,0.55,0.595,0.4266,Medium
+12,75,Female,Atypical Angina,158,180,True,LVH,200,No,0.9,Upsloping,Zero,Reversible Defect,0,0.115,0.985,0.0523,Low
+13,49,Female,Typical Angina,108,311,True,Normal,85,No,5.4,Upsloping,Zero,Reversible Defect,0,0.405,0.075,0.6069,Medium
+14,60,Male,Atypical Angina,110,463,True,LVH,113,Yes,3.3,Downsloping,Three,Normal,1,0.705,0.245,0.6905,Medium
+15,63,Male,Non-anginal Pain,145,469,True,ST-T Abnormality,186,No,1.5,Upsloping,Two,Normal,1,0.74,0.885,0.359,Low
+16,66,Male,Atypical Angina,94,162,False,Normal,88,No,5.3,Upsloping,One,Fixed Defect,0,0.065,0.085,0.4039,Medium
+17,71,Female,Atypical Angina,163,193,True,Normal,192,Yes,1.2,Upsloping,Three,Fixed Defect,1,0.155,0.93,0.0922,Low
+18,56,Female,Asymptomatic,187,153,False,Normal,174,Yes,5.0,Upsloping,One,Normal,1,0.035,0.71,0.132,Low
+19,41,Female,Atypical Angina,148,219,True,ST-T Abnormality,134,No,2.7,Downsloping,Zero,Normal,0,0.205,0.355,0.3664,Low
+20,70,Male,Typical Angina,190,560,False,Normal,175,Yes,3.0,Flat,Zero,Normal,1,0.995,0.74,0.5537,Medium
+21,53,Male,Asymptomatic,127,527,True,ST-T Abnormality,179,Yes,1.0,Flat,One,Normal,1,0.885,0.79,0.4752,Medium
+22,66,Male,Non-anginal Pain,101,151,True,LVH,111,No,6.0,Upsloping,One,Normal,0,0.025,0.23,0.3219,Low
+23,67,Male,Atypical Angina,145,187,False,LVH,81,No,2.6,Downsloping,Two,Fixed Defect,1,0.135,0.05,0.4597,Medium
+24,42,Female,Atypical Angina,127,328,False,LVH,147,Yes,2.0,Upsloping,Zero,Fixed Defect,1,0.425,0.48,0.4222,Medium
+25,68,Male,Typical Angina,162,235,True,Normal,160,No,5.5,Flat,Two,Normal,1,0.275,0.605,0.2897,Low
+26,57,Female,Typical Angina,179,544,True,LVH,97,No,1.6,Upsloping,One,Fixed Defect,1,0.94,0.115,0.8964,High
+27,47,Male,Non-anginal Pain,120,477,True,LVH,196,Yes,5.6,Upsloping,Zero,Reversible Defect,1,0.77,0.965,0.3274,Low
+28,56,Female,Typical Angina,94,296,False,LVH,138,No,4.6,Downsloping,Three,Reversible Defect,1,0.38,0.4,0.4376,Medium
+29,29,Male,Typical Angina,182,202,False,ST-T Abnormality,108,Yes,0.8,Flat,Two,Normal,0,0.175,0.2,0.418,Medium
+30,51,Male,Atypical Angina,179,178,True,LVH,175,No,5.7,Upsloping,One,Normal,0,0.105,0.74,0.1515,Low
+31,55,Male,Atypical Angina,188,296,True,LVH,134,Yes,1.0,Downsloping,Zero,Fixed Defect,1,0.38,0.355,0.459,Medium
+32,31,Female,Atypical Angina,119,544,True,ST-T Abnormality,149,No,1.4,Downsloping,One,Fixed Defect,0,0.94,0.505,0.6671,Medium
+33,50,Female,Typical Angina,192,268,True,LVH,201,Yes,4.2,Downsloping,Two,Normal,1,0.345,0.995,0.1403,Low
+34,36,Female,Atypical Angina,168,261,False,Normal,182,Yes,4.5,Flat,Three,Reversible Defect,1,0.315,0.84,0.2001,Low
+35,61,Male,Asymptomatic,167,223,True,Normal,182,No,3.2,Downsloping,One,Fixed Defect,1,0.22,0.84,0.159,Low
+36,56,Male,Non-anginal Pain,173,286,False,LVH,147,Yes,4.1,Flat,Three,Reversible Defect,1,0.365,0.48,0.392,Low
+37,47,Male,Atypical Angina,147,466,True,LVH,115,Yes,2.5,Upsloping,Two,Fixed Defect,1,0.715,0.26,0.6878,Medium
+38,42,Female,Non-anginal Pain,153,352,True,LVH,125,Yes,4.9,Downsloping,One,Reversible Defect,1,0.475,0.285,0.5439,Medium
+39,34,Female,Non-anginal Pain,105,545,False,LVH,150,No,5.0,Upsloping,Zero,Normal,0,0.955,0.515,0.6686,Medium
+40,44,Female,Typical Angina,152,338,False,LVH,169,Yes,2.5,Upsloping,Zero,Normal,1,0.455,0.675,0.3416,Low
+41,56,Male,Atypical Angina,196,482,True,Normal,134,No,2.8,Flat,Two,Fixed Defect,1,0.815,0.355,0.6891,Medium
+42,68,Female,Asymptomatic,114,506,True,ST-T Abnormality,137,No,5.2,Flat,Three,Reversible Defect,1,0.845,0.385,0.6879,Medium
+43,44,Female,Asymptomatic,103,491,True,Normal,140,Yes,2.0,Downsloping,Zero,Normal,1,0.825,0.425,0.6549,Medium
+44,38,Male,Asymptomatic,182,204,False,Normal,177,Yes,2.1,Flat,Three,Normal,1,0.185,0.765,0.1767,Low
+45,42,Female,Asymptomatic,192,425,False,LVH,168,Yes,0.0,Flat,Two,Fixed Defect,1,0.615,0.66,0.4238,Medium
+46,55,Male,Asymptomatic,122,265,True,ST-T Abnormality,78,Yes,2.1,Downsloping,Three,Reversible Defect,1,0.325,0.025,0.5834,Medium
+47,39,Female,Atypical Angina,173,399,False,ST-T Abnormality,77,No,4.0,Upsloping,Three,Normal,1,0.535,0.01,0.7159,High
+48,32,Female,Asymptomatic,135,234,True,ST-T Abnormality,157,Yes,1.7,Flat,Two,Normal,0,0.265,0.585,0.294,Low
+49,59,Male,Typical Angina,138,240,False,LVH,81,No,5.9,Upsloping,Zero,Reversible Defect,1,0.295,0.05,0.5541,Medium
+50,38,Male,Atypical Angina,154,468,False,LVH,126,Yes,4.3,Flat,One,Reversible Defect,1,0.725,0.3,0.6715,Medium
+51,67,Male,Atypical Angina,133,181,False,ST-T Abnormality,167,Yes,5.8,Upsloping,Zero,Reversible Defect,1,0.125,0.645,0.2009,Low
+52,73,Male,Typical Angina,183,521,True,LVH,101,No,2.2,Flat,Two,Normal,1,0.875,0.145,0.8416,High
+53,61,Female,Typical Angina,147,547,True,Normal,181,Yes,3.9,Flat,One,Fixed Defect,1,0.965,0.825,0.4898,Medium
+54,40,Female,Asymptomatic,153,349,True,ST-T Abnormality,133,No,1.7,Flat,One,Fixed Defect,1,0.465,0.335,0.5138,Medium
+55,65,Female,Non-anginal Pain,97,379,True,Normal,195,No,2.2,Flat,Two,Fixed Defect,1,0.505,0.955,0.2245,Low
+56,67,Female,Typical Angina,160,223,False,Normal,175,Yes,3.4,Upsloping,Three,Reversible Defect,1,0.22,0.74,0.2034,Low
+57,74,Female,Asymptomatic,195,134,False,ST-T Abnormality,127,Yes,4.3,Flat,Two,Fixed Defect,1,0.005,0.315,0.2767,Low
+58,64,Female,Asymptomatic,189,407,True,ST-T Abnormality,187,Yes,1.9,Upsloping,Zero,Reversible Defect,1,0.575,0.905,0.2789,Low
+59,41,Female,Typical Angina,189,400,False,Normal,126,Yes,1.7,Downsloping,Two,Normal,1,0.55,0.3,0.577,Medium
+60,41,Female,Atypical Angina,140,217,True,Normal,103,Yes,0.3,Upsloping,Two,Reversible Defect,0,0.195,0.17,0.4424,Medium
+61,37,Female,Typical Angina,95,419,True,ST-T Abnormality,193,Yes,2.1,Upsloping,Two,Fixed Defect,1,0.605,0.945,0.2707,Low
+62,36,Male,Asymptomatic,156,163,False,Normal,109,Yes,0.5,Upsloping,Zero,Reversible Defect,1,0.075,0.215,0.3558,Low
+63,77,Female,Atypical Angina,193,393,True,ST-T Abnormality,184,Yes,5.3,Flat,Two,Reversible Defect,1,0.525,0.87,0.2757,Low
+64,68,Male,Typical Angina,191,232,False,ST-T Abnormality,91,No,1.5,Downsloping,Zero,Normal,0,0.255,0.1,0.5079,Medium
+65,29,Female,Asymptomatic,182,430,True,ST-T Abnormality,79,No,1.8,Flat,Three,Normal,1,0.625,0.035,0.7566,High
+66,72,Male,Non-anginal Pain,194,531,False,ST-T Abnormality,100,No,4.0,Flat,One,Normal,1,0.915,0.135,0.8703,High
+67,32,Male,Non-anginal Pain,170,509,True,ST-T Abnormality,102,Yes,4.3,Downsloping,Three,Fixed Defect,1,0.855,0.155,0.8245,High
+68,61,Female,Asymptomatic,104,432,False,ST-T Abnormality,153,Yes,0.2,Upsloping,Zero,Reversible Defect,1,0.64,0.53,0.5042,Medium
+69,46,Male,Atypical Angina,154,391,True,ST-T Abnormality,117,Yes,3.9,Flat,Zero,Fixed Defect,1,0.515,0.275,0.5707,Medium
+70,51,Female,Non-anginal Pain,135,469,False,Normal,155,Yes,4.3,Flat,Three,Reversible Defect,1,0.74,0.565,0.5344,Medium
+71,31,Female,Typical Angina,134,255,True,Normal,174,No,4.1,Downsloping,Three,Fixed Defect,0,0.305,0.71,0.2557,Low
+72,32,Male,Non-anginal Pain,173,513,True,LVH,184,No,1.3,Downsloping,One,Fixed Defect,0,0.865,0.87,0.4205,Medium
+73,57,Female,Typical Angina,97,448,False,LVH,111,Yes,3.4,Downsloping,Three,Normal,1,0.665,0.23,0.6764,Medium
+74,43,Male,Asymptomatic,109,457,False,ST-T Abnormality,145,Yes,2.6,Flat,Three,Normal,1,0.695,0.455,0.5718,Medium
+75,58,Male,Asymptomatic,118,432,False,Normal,141,Yes,2.1,Downsloping,Two,Normal,1,0.64,0.435,0.5543,Medium
+76,47,Female,Asymptomatic,113,354,True,ST-T Abnormality,156,Yes,2.8,Flat,One,Reversible Defect,1,0.485,0.575,0.4052,Medium
+77,44,Female,Atypical Angina,193,336,False,ST-T Abnormality,192,Yes,2.4,Downsloping,One,Fixed Defect,1,0.44,0.93,0.2102,Low
+78,31,Male,Non-anginal Pain,106,558,True,Normal,187,No,4.5,Flat,One,Normal,0,0.975,0.905,0.4465,Medium
+79,59,Female,Non-anginal Pain,173,480,True,LVH,91,Yes,5.3,Downsloping,Three,Fixed Defect,1,0.795,0.1,0.8211,High
+80,69,Female,Typical Angina,173,161,False,LVH,144,No,4.6,Flat,Zero,Reversible Defect,1,0.055,0.445,0.2501,Low
+81,74,Male,Asymptomatic,115,481,True,Normal,82,Yes,4.9,Flat,Two,Fixed Defect,1,0.805,0.065,0.8465,High
+82,56,Male,Atypical Angina,161,336,False,Normal,115,No,3.8,Flat,One,Fixed Defect,1,0.44,0.26,0.5371,Medium
+83,66,Male,Atypical Angina,153,452,True,ST-T Abnormality,136,No,5.6,Flat,Two,Reversible Defect,1,0.675,0.375,0.6044,Medium
+84,63,Male,Typical Angina,150,302,True,LVH,179,Yes,2.8,Flat,One,Fixed Defect,1,0.395,0.79,0.2586,Low
+85,59,Male,Atypical Angina,142,418,True,LVH,146,Yes,0.1,Downsloping,Three,Fixed Defect,1,0.595,0.465,0.5157,Medium
+86,29,Male,Asymptomatic,200,272,False,LVH,161,No,3.9,Downsloping,Two,Reversible Defect,1,0.355,0.615,0.3233,Low
+87,77,Male,Typical Angina,174,456,False,ST-T Abnormality,183,No,3.6,Downsloping,One,Normal,1,0.685,0.855,0.3519,Low
+88,47,Female,Asymptomatic,116,228,False,LVH,164,Yes,5.1,Flat,Three,Fixed Defect,1,0.245,0.635,0.2619,Low
+89,76,Female,Typical Angina,153,164,False,Normal,172,Yes,0.6,Flat,Zero,Fixed Defect,1,0.085,0.685,0.1654,Low
+90,63,Male,Asymptomatic,141,470,True,LVH,168,Yes,0.7,Upsloping,Three,Normal,1,0.755,0.66,0.4893,Medium
+91,68,Female,Atypical Angina,176,158,True,LVH,148,Yes,0.7,Upsloping,Zero,Fixed Defect,1,0.045,0.495,0.2245,Low
+92,60,Male,Typical Angina,124,401,False,ST-T Abnormality,187,Yes,4.2,Downsloping,Three,Reversible Defect,1,0.565,0.905,0.2747,Low
+93,76,Male,Asymptomatic,177,176,True,LVH,175,Yes,0.2,Flat,One,Fixed Defect,1,0.095,0.74,0.1469,Low
+94,57,Male,Non-anginal Pain,106,477,True,LVH,162,No,2.5,Upsloping,Zero,Fixed Defect,1,0.77,0.625,0.5158,Medium
+95,34,Male,Typical Angina,100,528,True,Normal,103,No,0.4,Downsloping,One,Reversible Defect,0,0.895,0.17,0.8386,High
+96,42,Male,Non-anginal Pain,193,201,False,ST-T Abnormality,108,No,3.3,Upsloping,Zero,Reversible Defect,0,0.165,0.2,0.4124,Medium
+97,30,Male,Typical Angina,139,530,False,LVH,153,No,1.1,Upsloping,One,Reversible Defect,0,0.905,0.53,0.6351,Medium
+98,55,Male,Typical Angina,154,355,True,LVH,98,Yes,3.1,Downsloping,Zero,Reversible Defect,1,0.495,0.125,0.6346,Medium
+99,71,Female,Asymptomatic,176,141,False,ST-T Abnormality,173,Yes,4.3,Flat,Three,Normal,1,0.015,0.695,0.1289,Low
+100,34,Female,Atypical Angina,102,190,True,LVH,154,Yes,6.2,Downsloping,Two,Fixed Defect,0,0.145,0.55,0.251,Low
